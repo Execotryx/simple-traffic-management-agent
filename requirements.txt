@@ -1,0 +1,11 @@
+flask
+jsonschema
+pandas
+pytest
+openai
+dotenv
+supabase
+rich
+fastapi
+uvicorn
+streamlit
